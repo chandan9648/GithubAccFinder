@@ -1,4 +1,4 @@
-let searchBtn = document.querySelector(".search"); 
+let searchBtn = document.querySelector(".search");  
 let usernameinp = document.querySelector(".usernameinp");    
 let card = document.querySelector(".card");  
  
