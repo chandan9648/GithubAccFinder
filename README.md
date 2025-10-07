@@ -48,7 +48,7 @@ https://api.github.com/users/{username}
 
 Clone the Repository
 
-git clone https://github.com/chandan9648/githubaccfinder.git
+git clone https://github.com/chandan9648/GithubAccFinder.git
 
 
 Open in Browser
